@@ -8,4 +8,5 @@ puts "the fourth letter of the alphabet is: #colors[1]"
 puts "the fith letter of the alphabet is: #colors[0]"
 puts "the sixth letter of the alphabet is: #colors[6]"
 puts "the seventh letter of the alphabet: is #colors[2]"
+puts "#colors[4, 3, 5, 1, 0, 6, 2]"
 end 
